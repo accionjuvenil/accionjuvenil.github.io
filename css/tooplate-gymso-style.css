@@ -1,8 +1,8 @@
 /*
 
-Tooplate 2119 Gymso Fitness
+Acción Juveil
 
-https://www.tooplate.com/view/2119-gymso-fitness
+https://accionjuvenil.github.io/
 
 */
 
@@ -239,26 +239,6 @@ https://www.tooplate.com/view/2119-gymso-fitness
 
 
   /*---------------------------------------
-     MODAL              
-  -----------------------------------------*/
-
-  .modal-content {
-    padding: 2rem 3rem;
-  }
-
-  .modal-header,
-  .modal-body,
-  .modal-footer {
-    border: 0;
-    padding: 0;
-  }
-
-  .membership-form a {
-    color: var(--primary-color);
-  }
-
-
-  /*---------------------------------------
     FEATURE          
   -----------------------------------------*/
 
@@ -275,7 +255,7 @@ https://www.tooplate.com/view/2119-gymso-fitness
   .navbar {
     background: var(--dark-color);
     padding: 1rem;
-    box-shadow: 0px 0px 15px 15px rgba(0,0,0,0.1);
+    box-shadow: 0px 10px 25px 15px rgba(0,0,0,0.1);
   }
 
   .navbar-expand-lg .navbar-nav .nav-link {
