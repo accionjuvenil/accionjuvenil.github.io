@@ -567,6 +567,10 @@ https://accionjuvenil.github.io/
     box-shadow: 0px 0px 15px 10px rgba(0,0,0,0.1);
   }
 
+  a#submit-button:hover {
+    transform: scale(1.1);
+  }
+
   .icon-call {
     padding-right: 4px;
   }
