@@ -4,5 +4,5 @@ Acción juvenil es el ministerio de jovenes de la Iglesia Cristianos En Acción 
 ## ➜ Sitio web oficial de Acción juvenil®
 https://accionjuvenil.github.io/
 
-## Versión BETA
+## Versión Estable
 > Versión 1.0 - Acción Juvenil®

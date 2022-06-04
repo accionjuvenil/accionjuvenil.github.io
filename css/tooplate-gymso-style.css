@@ -31,7 +31,7 @@ https://accionjuvenil.github.io/
   }
 
   :root {
-    --primary-color:        #f13a11;
+    --primary-color:        #F16809;
     --white-color:          #ffffff;
     --dark-color:           #171819;
     --about-bg-color:       #f9f9f9;
@@ -234,7 +234,7 @@ https://accionjuvenil.github.io/
     left: 0;
     width: 100%;
     height: 100%;
-    opacity: 0.85;
+    opacity: 0.60;
   }
 
 
@@ -247,13 +247,28 @@ https://accionjuvenil.github.io/
     padding: 5rem 0;
   }
 
+  .icon-instagram {
+    height: 20px;
+    padding-right: 4px;
+  }
+
+  .icon-facebook {
+    height: 20px;
+    padding-right: 4px;
+  }
+
+  .icon-youtube {
+    height: 15px;
+    padding-right: 4px;
+  }
 
   /*---------------------------------------
      MENU             
   -----------------------------------------*/
 
   .navbar {
-    background: var(--dark-color);
+    background-color: var(--dark-color);
+    opacity: 0.99;
     padding: 1rem;
     box-shadow: 0px 10px 25px 15px rgba(0,0,0,0.1);
   }
@@ -264,11 +279,10 @@ https://accionjuvenil.github.io/
   }
 
   .accion-juvenil-logo {
-    margin-top: 3px;
     position: absolute;
     margin-left: -50px;
-    width: 35px;
-    height: 35px;
+    width: 40px;
+    height: 40px;
   }
 
   .navbar-brand {
@@ -295,6 +309,11 @@ https://accionjuvenil.github.io/
 
   .navbar .social-icon li a {
     color: var(--white-color);
+  }
+
+  .icon-youtube-navbar {
+    height: 16px;
+    padding-bottom: 2px;
   }
 
   .navbar-toggler {
@@ -380,7 +399,7 @@ https://accionjuvenil.github.io/
   /*---------------------------------------
      CLASS               
   -----------------------------------------*/
-
+  
   .class-info {
     justify-content: center;
     background: var(--white-color);
@@ -507,6 +526,7 @@ https://accionjuvenil.github.io/
   }
 
   .team-info {
+    text-align: center;
     background: var(--white-color);
     border-radius: 0 0 24px 24px;
     box-shadow: 0px 0px 15px 10px rgba(0,0,0,0.1);
@@ -583,10 +603,6 @@ https://accionjuvenil.github.io/
     padding-right: 4px;
   }
 
-  /* a#submit-button:hover {
-    background: var(--primary-color);
-  } */
-
   .contact h2 + p {
     max-width: 90%;
   }
@@ -626,6 +642,18 @@ https://accionjuvenil.github.io/
   .contact .fa,
   .site-footer .fa {
     color: var(--primary-color);
+  }
+
+  .logos-footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: -20px;
+  }
+
+  .logos-footer img {
+    width: 120px;
+    height: 120px;
   }
 
 
