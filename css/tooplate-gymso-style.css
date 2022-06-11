@@ -269,7 +269,7 @@ https://accionjuvenil.github.io/
   .navbar {
     background-color: var(--dark-color);
     opacity: 0.98;
-    padding: 0.7rem;
+    padding: 0.6rem;
     box-shadow: 0px 10px 25px 15px rgba(0,0,0,0.1);
   }
 
@@ -387,6 +387,16 @@ https://accionjuvenil.github.io/
 
   .hero {
     background-image: url('../images/istockphoto-624678506-612x612.jpg');
+    background-size: cover;
+    background-position: top;
+    background-repeat: no-repeat;
+    vertical-align: middle;
+    min-height: 100vh;
+    position: relative;
+  }
+
+  .hero-estudiosBiblicos {
+    background-image: url('../images/orar-al-Dios-soberano-OriginalWithCut-774x1376-90-CardBanner.jpg');
     background-size: cover;
     background-position: top;
     background-repeat: no-repeat;
@@ -609,6 +619,14 @@ https://accionjuvenil.github.io/
   }
 
   .icon-whatsapp {
+    padding-right: 4px;
+  }
+
+  .icon-bibble {
+    padding-right: 4px;
+  }
+
+  .icon-home {
     padding-right: 4px;
   }
 
