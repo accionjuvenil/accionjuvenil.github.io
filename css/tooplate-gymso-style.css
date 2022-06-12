@@ -405,6 +405,16 @@ https://accionjuvenil.github.io/
     position: relative;
   }
 
+  .hero-noticias {
+    background-image: url('../images/exito1.jpg');
+    background-size: cover;
+    background-position: top;
+    background-repeat: no-repeat;
+    vertical-align: middle;
+    min-height: 100vh;
+    position: relative;
+  }
+
 
   /*---------------------------------------
      CLASS               
@@ -627,6 +637,10 @@ https://accionjuvenil.github.io/
   }
 
   .icon-home {
+    padding-right: 4px;
+  }
+
+  .icon-news {
     padding-right: 4px;
   }
 
