@@ -31,7 +31,7 @@ https://accionjuvenil.github.io/
   }
 
   :root {
-    --primary-color:        #F16809;
+    --primary-color:        #e66511;
     --white-color:          #ffffff;
     --dark-color:           #171819;
     --about-bg-color:       #f9f9f9;
@@ -269,7 +269,7 @@ https://accionjuvenil.github.io/
   .navbar {
     background-color: var(--dark-color);
     opacity: 0.98;
-    padding: 0.6rem;
+    padding: 0.5rem;
     box-shadow: 0px 10px 25px 15px rgba(0,0,0,0.1);
   }
 
@@ -406,7 +406,7 @@ https://accionjuvenil.github.io/
   }
 
   .hero-noticias {
-    background-image: url('../images/exito1.jpg');
+    background-image: url('../images/fc83e72ce010c98e48786fe208f40564.jpg');
     background-size: cover;
     background-position: top;
     background-repeat: no-repeat;
